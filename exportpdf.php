@@ -44,7 +44,7 @@ $total_earnings = $payslip['gross_total'];
 $total_deductions = $payslip['total_deduction']; 
 $net_pay_calculated = $payslip['net_total']; 
 
-// --- 2. STATIC MASTER LIST & Data Merging (NEW LOGIC) ---
+// --- 2. STATIC MASTER LIST & Data Merging ---
 
 // Define the exact components shown in the uploaded image template
 $master_earnings = [
