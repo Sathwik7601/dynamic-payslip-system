@@ -1,5 +1,4 @@
 -- SQL Script to create the appraisals table
--- Execute this in your MySQL database (payslip_db)
 
 CREATE TABLE IF NOT EXISTS `appraisals` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
