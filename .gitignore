@@ -1,0 +1,29 @@
+# Configuration files with sensitive data
+config/connection.php
+
+# XAMPP / Local environment files
+*.log
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode settings
+.vscode/
+
+# Python files
+python
+python.txt
+
+# Documentation extras
+FAQ.htm
+changelog.htm
+install.txt
+tutorial/
+doc/
+
+# FPDF library (optional, add back if needed)
+# fpdf.php
