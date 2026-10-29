@@ -1,11 +1,11 @@
 <?php
 // Database Configuration
-// Copy this file to config/connection.php and update with your credentials
+
 
 $host     = 'localhost';
-$username = 'root';       // your DB username
-$password = '';           // your DB password
-$database = 'payslip_db'; // your database name
+$username = 'root';      
+$password = '';          
+$database = 'payslip_db'; 
 
 $conn = mysqli_connect($host, $username, $password, $database);
 
